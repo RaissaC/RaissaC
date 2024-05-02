@@ -30,5 +30,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align="center" height="30" width="40" src="[https://images.app.goo.gl/ipoMvM6QBNyNutxV8](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353950%2Fkafka&psig=AOvVaw3cW_Jwpftz7hwGQu8HPlcn&ust=1714774637973000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDP6rv_74UDFQAAAAAdAAAAABAE)"/>
 </div>
